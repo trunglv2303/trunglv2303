@@ -9,7 +9,7 @@
   
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
-| Facebook | [**Lê Văn Trung**](https://www.facebook.com/chiatayde)  |
+| Facebook | [**Lê Văn Trung**](https://facebook.com/https://www.facebook.com/LVT2004)  |
 | Youtube | [**TrungIT**](https://www.youtube.com/) |
 | Working  | [**LearnVKU**](https://www.facebook.com) |
 | My blogs | [**TrungIT**](https://codelearn.io/sharing/post/HaiZuka) |
