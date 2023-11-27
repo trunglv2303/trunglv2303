@@ -9,10 +9,7 @@
   
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
-| Facebook | [**Lê Văn Trung**](https://facebook.com/https://www.facebook.com/LVT2004)  |
-| Youtube | [**TrungIT**](https://www.youtube.com/) |
-| Working  | [**LearnVKU**](https://www.facebook.com) |
-| My blogs | [**TrungIT**](https://codelearn.io/sharing/post/HaiZuka) |
+| Facebook | [**Lê Văn Trung**](https://facebook.com/https://www.facebook.com/LVT2004)  ||
 | University | [**Vietnam-Korea University of Information and Communication Technology**](http://www.vku.udn.vn/) |
 | Contact | **<leevantrung2004@gmail.com>** |
 | <img width=300/> |  |
